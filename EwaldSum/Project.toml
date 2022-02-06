@@ -1,0 +1,7 @@
+name = "EwaldSum"
+uuid = "8dc8873d-0143-44a1-b3ed-a4e5a5fff714"
+authors = ["Yubo \"Paul\" Yang <pyang@flatironinstitute.org>"]
+version = "0.1.0"
+
+[deps]
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
