@@ -1,4 +1,4 @@
-module vmad
+module Madelung
 
 using SpecialFunctions: erfc
 using LinearAlgebra: dot, det, inv
